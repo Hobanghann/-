@@ -21,7 +21,7 @@
 - https://jcgt.org/index.html
 ##### Tangent Space Normal Maps
 - http://www.mikktspace.com/
-- 
+
 ## CS
 ##### Designing Fast Cross-Platform SIMD Vector Libraries
 - https://www.gamedeveloper.com/programming/designing-fast-cross-platform-simd-vector-libraries
@@ -35,8 +35,12 @@
 - https://abseil.io/tips/
 ##### Canonical Project Structure
 - https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1204r0.html
-- 
+##### refactoring.guru
+- https://refactoring.guru
+
 ## 블로그
+##### Joel on Software
+- https://www.joelonsoftware.com/
 ##### Yuchi's Development
 - https://megayuchi.com/
 ##### songho.ca
@@ -51,3 +55,13 @@
 - https://casual-effects.com/data/
 
 ## 사이트
+##### gamedev.net
+- https://www.gamedev.net/
+##### ShaderToy
+- https://www.shadertoy.com/
+##### CellPerformance
+- https://cellperformance.beyond3d.com/articles/index.html
+##### scratchapixel
+- https://www.scratchapixel.com/index.html
+##### LeranOpenGL
+- https://learnopengl.com/

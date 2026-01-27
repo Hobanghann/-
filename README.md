@@ -37,6 +37,8 @@
 - https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1204r0.html
 ##### refactoring.guru
 - https://refactoring.guru
+##### Enum vs Enum Class in C++
+- https://agrawalsuneet.github.io/blogs/enum-vs-enum-class-in-c++/
 
 ## 블로그
 ##### Joel on Software

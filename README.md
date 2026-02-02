@@ -71,3 +71,5 @@
 - https://learnopengl.com/
 ##### 3D Game Engine Programming
 - https://www.3dgep.com/
+##### GameDev.tv
+https://community.gamedev.tv/
